@@ -42,7 +42,15 @@ a:hover{
 body{
     background-color: rgb(223, 223, 223);
 }
-p.left_border{
-    border-right: dashed;
-    border-color:black;
+.borderRight{
+    padding-left:8px;
+    border-style:dashed;
+    width:61%;
+
+}
+.iframe1{
+    float:inline-end;
+}
+a.header{
+    padding:200%;
 }
